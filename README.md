@@ -1,5 +1,3 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5116AQHWBNMKu1jpzA/profile-displaybackgroundimage-shrink_350_1400/0/1516500419359?e=1666828800&v=beta&t=iqbtT1Tq77s4FgplPm9BRFPxqgzDTjDyNVu93YYX9Ow" width="800">
-
 # Hi there👋! I'm [Alper Özaslan](https://www.linkedin.com/in/alper-%C3%B6zaslan-6552a151/) 🙋‍♂️
 
 _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with Kotlin_ 🥽.
