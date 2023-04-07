@@ -10,7 +10,7 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with K
 - Loves ⚽ and 📺.
 - Proud 🇹🇷
 
-<img alt='Github Stats' src='https://github-readme-stats.vercel.app/api?username=kairos34&show_icons=true&theme=radical&count_private=true'>
+![Alper's GitHub stats](https://github-readme-stats.vercel.app/api?username=kairos34&show_icons=true&theme=algolia&count_private=true)
 
 ## 🔗 Know more about me 
 
